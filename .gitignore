@@ -13,6 +13,7 @@ build/
 .ipynb_checkpoints/
 *.nbconvert/
 nbconvert_output/
+*_files/
 
 # Virtual environments
 venv/

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert/
+nbconvert_output/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+Pipfile.lock
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# Data caches
+.cache/
+*.h5
+*.hdf5
+*.feather
+*.parquet
+*.pkl
+*.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution / packaging
+*.so
+*.egg-link
